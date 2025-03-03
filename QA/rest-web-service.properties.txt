@@ -1,2 +1,2 @@
 server.port=8081
-serviceproperties.maximum=5
+rest-web-service.max=54
