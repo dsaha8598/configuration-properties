@@ -1,4 +1,2 @@
 server.port=8081
-serviceproperties:
- maximum:5
- minimum:1
+serviceproperties.maximum=5
